@@ -7,4 +7,6 @@ Nesse segundo desafio realizamos a junção do nosso backend criado no primeiro 
 
 O nosso frontend deve se conectar com o backend e realizar a listagem, cadastro e exclusão de dados.
 
+:smiley: Como ficou: 
+
 <img src="./tela.PNG">
