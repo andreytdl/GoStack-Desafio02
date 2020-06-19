@@ -29,7 +29,7 @@ function App() {
     //Fazendo a chamaada na api
     const response = await api.post('/repositories', {
       url: 'bomdia.com',
-      title: 'Repositorio do GoStack',
+      title: 'Repositório de NodeJS',
       techs: ['ReactJS, React Native, NodeJS']
     });
 
